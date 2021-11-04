@@ -1,4 +1,4 @@
-# Music-Player-16
+# Music-Player@16
 
 High-Level Music Player using Python
 
