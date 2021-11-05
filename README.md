@@ -16,10 +16,6 @@ $ **Includes more than 50 In-Built GIF's for Entertainment !**
 
 $ Other Features includes Random GIF Selection, All songs list,Favourite songs list, FAQ, Shortcut keys, About etc.
 
-# Live Working
-
-
-
 # About
 
 A PR@16 Creation
