@@ -19,3 +19,7 @@ $ Other Features includes Random GIF Selection, All songs list,Favourite songs l
 # About
 
 A PR@16 Creation
+
+# Screenshots
+
+![image](https://raw.githubusercontent.com/Scania-Creations-16/Music-Player-16/main/Screenshot1.png)
