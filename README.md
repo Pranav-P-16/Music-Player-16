@@ -27,3 +27,4 @@ A PR@16 Creation
 ![image](https://raw.githubusercontent.com/Scania-Creations-16/Music-Player-16/main/Screenshot3.png)
 ![image](https://raw.githubusercontent.com/Scania-Creations-16/Music-Player-16/main/Screenshot4.png)
 ![image](https://raw.githubusercontent.com/Scania-Creations-16/Music-Player-16/main/Screenshot5.png)
+![image](https://raw.githubusercontent.com/Scania-Creations-16/Music-Player-16/main/Screenshot6.png)
