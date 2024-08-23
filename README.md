@@ -23,3 +23,7 @@ A PR@16 Creation
 # Screenshots
 
 ![image](https://raw.githubusercontent.com/Scania-Creations-16/Music-Player-16/main/Screenshot1.png)
+![image](https://raw.githubusercontent.com/Scania-Creations-16/Music-Player-16/main/Screenshot2.png)
+![image](https://raw.githubusercontent.com/Scania-Creations-16/Music-Player-16/main/Screenshot3.png)
+![image](https://raw.githubusercontent.com/Scania-Creations-16/Music-Player-16/main/Screenshot4.png)
+![image](https://raw.githubusercontent.com/Scania-Creations-16/Music-Player-16/main/Screenshot5.png)
